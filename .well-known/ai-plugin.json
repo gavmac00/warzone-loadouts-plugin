@@ -1,19 +1,19 @@
 {
   "schema_version": "v1",
-  "name_for_model": "Nextjs_Docs_Retrieval",
-  "name_for_human": "Next.js Docs Retrieval Plugin",
-  "description_for_model": "Plugin for searching through Next.js latest documents to find answers to questions related to the new App Router Feature. Use it whenever a user asks for something related to Next.js.",
-  "description_for_human": "Find information about the Next.js App Router Documentation.",
+  "name_for_model": "warzone_loadout",
+  "name_for_human": "Warzone Loadout Meta",
+  "description_for_model": "Plugin for giving users the best Call of Duty Warzone 2.0 loadout meta, using the information available to you, you should suggest the best meta for the user. Use it whenever a user asks for something related to Call of Duty Warzone and Loadouts.",
+  "description_for_human": "Get the latest Warzone 2.0 Meta Loadouts.",
   "auth": {
     "type": "user_http",
     "authorization_type": "bearer"
   },
   "api": {
     "type": "openapi",
-    "url": "https://walrus-app-nk699.ondigitalocean.app/.well-known/openapi.yaml",
+    "url": "https://plankton-app-h6eul.ondigitalocean.app/.well-known/openapi.yaml",
     "has_user_authentication": false
   },
-  "logo_url": "https://nextjs.org/favicon.ico",
+  "logo_url": "https://i.pinimg.com/736x/bc/c1/2b/bcc12bdfbd443c8dd860340afdbbd975.jpg",
   "contact_email": "hello@contact.com", 
   "legal_info_url": "http://example.com/legal-info"
 }
